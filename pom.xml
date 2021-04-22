@@ -86,13 +86,13 @@
 
 	    <repository>
 	      <id>nexus</id>
-	      <name>Idexcel Technologies Releases Nexus Repository</name>
-	      <url>http://13.126.110.77:8081/repository/web-release/</url>
+	      <name>release-r </name>
+	      <url>http://65.2.3.238:8081/repository/release-r/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Idexcel Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.126.110.77:8081/repository/web-snapshot/</url>
+	      <name>Snapshot-r </name>
+	      <url>http://65.2.3.238:8081/repository/snapshop-r/</url>
 	    </snapshotRepository>
        </distributionManagement>    
         <build>
