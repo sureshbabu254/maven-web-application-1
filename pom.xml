@@ -100,13 +100,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>mavenrelease</name>
+	      <name>release</name>
 	      <url>http://13.234.239.153:8089/repository/release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>maven snapshot </name>
+	      <name>snapshot</name>
 	      <url>http://13.234.239.153:8089/repository/snapshot/</url>
 	    </snapshotRepository>
 	    
