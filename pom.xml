@@ -101,13 +101,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>mavenrelease</name>
-	      <url>http://65.2.75.17:8888/repository/release/</url>
+	      <url>http://13.234.239.153:8089/repository/release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>maven snapshot </name>
-	      <url>http://65.2.75.17:8888/repository/snapshot/</url>
+	      <url>http://13.234.239.153:8089/repository/snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
